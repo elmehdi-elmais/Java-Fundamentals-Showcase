@@ -1,4 +1,4 @@
-package com.jcore.generics.utils;
+package com.jcore.generics.basic.array;
 
 /**
  * Classe utilitaire démontrant l'utilisation des Méthodes Génériques
